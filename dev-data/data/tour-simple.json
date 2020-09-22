@@ -1,0 +1,210 @@
+[
+            {
+                "id": 0,
+                "name": "Kerry Camino",
+                "duration": 5,
+                "time": "March to October",
+                "difficulty": "medium",
+                "ratingsAverage": 4.7,
+                "ratingsQuantity": 37,
+                "price": 397,
+                "summary": "Hiking the Kerry Camino",
+                "description": "Hiking the Kerry Camino Short Break 5 days is one of our most popular trip in Ireland.",
+                "imageCover": "tour-1-cover.jpg",
+                "images": [
+                    "tour-1-1.jpg",
+                    "tour-1-2.jpg",
+                    "tour-1-3.jpg"
+                ],
+                "startDates": [
+                    "2021-04-25,10:00",
+                    "2021-07-20,10:00",
+                    "2021-10-05,10:00"
+                ]
+            },
+            {
+                "id": 1,
+                "name": "The Wicklow Way",
+                "duration": 7,
+                "time": "Match to October",
+                "difficulty": "medium",
+                "ratingsAverage": 4.8,
+                "ratingsQuantity": 23,
+                "price": 620,
+                "summary": "Hiking the Wicklow Way",
+                "description": "Crossing the Wicklow Mountains and finishing in Dublin city, the beautiful Wicklow Way is Ireland’s classic hiking trail.",
+                "imageCover": "tour-2-cover.jpg",
+                "images": [
+                    "tour-2-1.jpg",
+                    "tour-2-2.jpg",
+                    "tour-2-3.jpg"
+                ],
+                "startDates": [
+                    "2021-06-19,10:00",
+                    "2021-07-20,10:00",
+                    "2021-08-18,10:00"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "The Kerry Way",
+                "duration": 4,
+                 "time": "March to October",
+                "difficulty": "medium",
+                "ratingsAverage": 4.5,
+                "ratingsQuantity": 13,
+                "price": 450,
+                "summary": "Hiking the Kerry Way",
+                "description": "Hiking the Kerry Way Short-break is a shorter version of the full Kerry Way in 4days, starting in Killarney and finishing in Glenbeigh.",
+                "imageCover": "tour-3-cover.jpg",
+                "images": [
+                    "tour-3-1.jpg",
+                    "tour-3-2.jpg",
+                    "tour-3-3.jpg"
+                ],
+                "startDates": [
+                    "2022-01-05,10:00",
+                    "2022-02-12,10:00",
+                    "2023-01-06,10:00"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Achill Island Greenway",
+                "duration": 4,
+                "time": "March to October",
+                "difficulty": "easy",
+                "ratingsAverage": 4.6,
+                "ratingsQuantity": 54,
+                "price": 440,
+                "summary": "Cycling Achill Island Greenway",
+                "description": "This route on the Wild Atlantic Way is a nice walking tour ideal for families or people looking for a relaxing holiday with short activity days.",
+                "imageCover": "tour-4-cover.jpg",
+                "images": [
+                    "tour-4-1.jpg",
+                    "tour-4-2.jpg",
+                    "tour-4-3.jpg"
+                ],
+                "startDates": [
+                    "2021-03-11,10:00",
+                    "2021-05-02,10:00",
+                    "2021-06-09,10:00"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "The Dingle Way",
+                "duration": 5,
+                "time": "March to October",
+                "difficulty": "medium",
+                "ratingsAverage": 4.3,
+                "ratingsQuantity": 19,
+                "price": 450,
+                "summary": "Hiking the Dingle Way",
+                "description": "The route passes through Gaeltacht areas (Irish-Speaking region), making it a wonderful place to discover authentic Irish culture, music and entertainment.",
+                "imageCover": "tour-5-cover.jpg",
+                "images": [
+                    "tour-5-1.jpg",
+                    "tour-5-2.jpg",
+                    "tour-5-3.jpg"
+                ],
+                "startDates": [
+                    "2021-08-05,10:00",
+                    "2022-03-20,10:00",
+                    "2022-08-12,10:00"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "The Burren Way",
+                "duration": 4,
+                "time": "March to October",
+                "difficulty": "difficult",
+                "ratingsAverage": 4.7,
+                "ratingsQuantity": 28,
+                "price": 450,
+                "summary": "Hiking the Burren Way",
+                "description": " Walking The Burren Way from Lahinch to Corofin, you will be rewarded with panoramic coastal vistas along the iconic Cliffs of Moher, one of the most spectacular views along the Wild Atlantic Way.",
+                "imageCover": "tour-6-cover.jpg",
+                "images": [
+                    "tour-6-1.jpg",
+                    "tour-6-2.jpg",
+                    "tour-6-3.jpg"
+                ],
+                "startDates": [
+                    "2021-07-19,10:00",
+                    "2021-09-06,10:00",
+                    "2022-03-18,10:00"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "The Causeway Coast Way",
+                "duration": 4,
+                "time": "March to October",
+                "difficulty": "medium",
+                "ratingsAverage": 4.5,
+                "ratingsQuantity": 35,
+                "price": 650,
+                "summary": "Hiking the Causeway Coast Way",
+                "description": "This walking route encompasses a variety of terrain and scenery taking in The Moyle Way, through Glenariff Forest Park, five of the nine Glens of Antrim, Rathlin Island and finishing the tour by walking The Causeway Coast Way.",
+                "imageCover": "tour-7-cover.jpg",
+                "images": [
+                    "tour-7-1.jpg",
+                    "tour-7-2.jpg",
+                    "tour-7-3.jpg"
+                ],
+                "startDates": [
+                    "2021-02-12,10:00",
+                    "2021-04-14,10:00",
+                    "2021-09-01,10:00"
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Connemara Mountains",
+                "duration": 4,
+                "time": "March to October",
+                "difficulty": "medium",
+                "ratingsAverage": 4.7,
+                "ratingsQuantity": 7,
+                "price": 450,
+                "summary": "Hiking the Connemara Mountains",
+                "description": "Described by Irish writer Oscar Wilde as ‘a savage beauty’, you’ll discover the wild and sparsely populated areas of Connemara and Mayo, taking in some of the most unspoilt scenery Ireland has to offer.",
+                "imageCover": "tour-8-cover.jpg",
+                "images": [
+                    "tour-8-1.jpg",
+                    "tour-8-2.jpg",
+                    "tour-8-3.jpg"
+                ],
+                "startDates": [
+                    "2021-03-23,10:00",
+                    "2021-10-25,10:00",
+                    "2022-01-30,10:00"
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Causeway Coastal Route & Donegal",
+                "duration": 7,
+                "time": "March to October",
+                "difficulty": "easy",
+                "ratingsAverage": 4.7,
+                "ratingsQuantity": 33,
+                "price": 1750,
+                "summary": "Hiking Coastal Route & Donegal",
+                "description": " Our route takes us along the Causeway Coastal Route and the iconic Giant’s Causeway, collectively rated world’s best region to visit in 2018 by Lonely Planet, along the northern edge of Ireland to the dramatic mountains and glens of the Donegal, finishing at Slieve League, some of the highest sea cliffs in Europe.",
+                "imageCover": "tour-9-cover.jpg",
+                "images": [
+                    "tour-9-1.jpg",
+                    "tour-9-2.jpg",
+                    "tour-9-3.jpg"
+                ],
+                "startDates": [
+                    "2021-12-16,10:00",
+                    "2022-01-16,10:00",
+                    "2022-12-12,10:00"
+                ]
+            },
+
+        ]

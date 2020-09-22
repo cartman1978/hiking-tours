@@ -1,0 +1,19 @@
+header.header#myHeader
+ a.active(href='/') ALL TOURS
+ img(src='/img/logo.png' alt='logo')
+
+ button.nav__search-btn
+ //-input.nav__search-input(type='text' placeholder='Search tours')
+
+ nav.nav.nav--user
+  if user
+   a.nav__el.nav__el--logout Log out
+   a.nav__el(href='/me')
+     img.nav__user-img(src=`/img/users/${user.photo}` alt=`Photo of ${user.name}`)
+     span= user.name.split(' ')[0]
+  else
+   a.nav__el(href='/login') Log In
+   a.nav__el.nav__el--cta(href='#') Sign Up
+
+.container-fluid
+  h2#main-title Looking for Hiking tour in Ireland?
